@@ -4,13 +4,13 @@
             "id": 1,
             "Titulo": "Animais Fantasticos",
             "Genero": "Fantasia",
-            "Classificao": "16"
+            "Classificacao": "16"
             
         },
         {
             "id": 2,
             "titulo": "Homen Aranha 3",
-            "anGenero": "Aventura",
+            "Genero": "Aventura",
             "classificacao": "12"
         },
         {   "id": 3,
