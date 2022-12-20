@@ -1,0 +1,81 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "Titulo": "Animais Fantasticos",
+            "Genero": "Fantasia",
+            "Classificao": "16"
+            
+        },
+        {
+            "id": 2,
+            "titulo": "Homen Aranha 3",
+            "anGenero": "Aventura",
+            "classificacao": "12"
+        },
+        {   "id": 3,
+            "titulo": "Corra",
+            "Genero": "Terror",
+            "classificacao": "18"
+
+        }  
+
+    
+    
+],
+
+
+
+    "Sala": [
+        {
+        "id": 1,
+        "capacidade":250,
+        "filme": "Animais fantasticos",
+        "horario": "10am"
+        },
+        {
+          "id": 2,
+          "capacidade":350,
+          "filme": "Homem Aranha 3",
+          "horario": "12am"
+          },
+          {
+            "id": 3,
+            "capacidade":250,
+            "filme": "Corra",
+            "horario": "14pm"
+            }
+            
+      ],
+    
+        "Clientes": [
+            {
+                "id": 1,
+                "nome": "Rafael",
+                "idade": 18,
+                "assistido": {
+                    "Fantasia": "Animais Fantasticos"
+                }
+            },
+            {
+              "id": 2,
+              "nome": "Bruno",
+              "idade": 22,
+              "assistido": {
+                  "terror": "Corra"
+                
+              }
+          },
+          {
+            "id": 3,
+            "nome": "jessica",
+            "idade": 27,
+            "assistido": {
+                "aventura": "Homem Aranha 3"
+            }
+        }
+        
+    
+      
+        ]
+    }
